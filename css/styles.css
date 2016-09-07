@@ -89,3 +89,19 @@ img {
 .products h3 {
   margin: 0;
 }
+
+.pics {
+  margin: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.pic {
+  list-style-type: none;
+  margin: 7px;
+  padding: 0;
+  border: 3px solid black;
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
